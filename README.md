@@ -2,9 +2,12 @@
  # Features #
 
 User-Friendly Interface
+
 Admin Panel
+
 Order Placement and Management
-Real-Time Order Tracking
+
+Order Tracking
 
 # Requirements
 Libraries:
